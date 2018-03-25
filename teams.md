@@ -52,14 +52,6 @@ STYLE GUIDE:
 
 ***
 
-# Team Assemble
-### There are people all around the world who are eager to participate in the tech community but are geographically constrained. Assemble is an event platform that aims to solve that problem.
-* Teammates: Roseanna McFarlane (@Roseanna), Stephen Bennett (@Stephen), Joshua Nelson,(@Joshua), Nicholas Higgins (@Higgs)
-* Seeking Teammates: No
-* [Github URL](https://github.com/RoseannaM/reactathon-2018)
-* Assemble
-
-***
 # Team Nyentek
 ### An API-less sponsor, participating for the fun of it
 * **Teammates**: Robbi Garza, Jason Hsu, Jamee Krzanich, Nate MacMillan, Randy Thompson
@@ -130,34 +122,12 @@ STYLE GUIDE:
 
 ***
 
-# NotAlone
-### You're not alone. A web enabled group therapy app to address mental health conditions
-* Teammates:
-    - Chao Cao (@Chao)
-    - Wyatt Rudnicki (@Wyatt)
-    - Arpan NLN (@Arpan)
-    - Joey Feng (@Joey)
-    - Rose Lee (@roselee)
-    - Edward Cheng (@Edward Cheng)
-    - Dylan McCapes (@Dylan McCapes)
-
+# Solothon
+### A way for API/service providers to give efficient online video support to Hackathon teams
+* Teammates: Huy Zing (@huy)
 * Seeking Teammates: No
-* [Project Url](https://github.com/arpannln/ReactathonProject)
-* Project Name: NotAlone
+* [Project URL](https://github.com/huyz/hack-reactathon-2018-name)
+* Project Name: TBD
 
-***
+*** (be sure to include these three stars at the bottom for a horizontal rule)
 
-# BlindArrow
-### Finding love in all the right places.
-* Teammates: 
-    - Kai Hsia (@kaihsia)
-    - Nick Tang (@singsai)
-    - Wendy Cheung (@wendy-c)
-    - Joosang Lee (@armlessarcher)
-    - Clarabelle Cheung-Yue (@clarabellecheung-yue)
-    - James Tu (@jmsjtu)
-* Seeking Teammates: No
-* [Project URL](https://github.com/darkside-reactathon2018)
-* Project Name: darkside
-
-***
